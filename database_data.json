@@ -1,0 +1,626 @@
+[
+    {
+        "id": "1",
+        "name": "Adventurer® Short-Sleeve T-Shirt",
+        "price": 35,
+        "category": "men",
+        "image": "https://eddiebauer.scene7.com/is/image/EddieBauer/D0331184_668C1?$748V1$",
+        "description": "An active, sustainable T-shirt. Natural, breathable cotton is blended with Seawool polyester which is made from recycled plastic bottles and oyster shell powder. In addition to that green benefit, the shirt has spandex for stretch, plus moisture-wicking, sun-protection, and odor-control technologies. So, if you want comfort, performance, and sustainability in one T-shirt, this is it."
+    },
+    {
+        "id": "2",
+        "name": "Atlas Exploration Flex Long-Sleeve Shirt",
+        "price": 63,
+        "category": "men",
+        "image": "https://eddiebauer.scene7.com/is/image/EddieBauer/D0291061_485C1?$748V1$",
+        "description": "Ready for any adventure, this moisture-wicking shirt is built with recycled ripstop polyester that's both lightweight and durable. Vented back yoke with mesh boosts breathability."
+    },
+    {
+        "id": "3",
+        "name": "Barrier Ridge Fleece-Lined Jacket",
+        "price": 27.6,
+        "category": "kids",
+        "image": "https://eddiebauer.scene7.com/is/image/EddieBauer/D0130616_088C1?$748V1$",
+        "description": "Keep your kids' warm and comfortable during cool days in our Barrier Ridge Fleece-Lined Jacket. The cozy lining provides extra warmth, while our moisture-shedding finish fends off light rain and unpleasant weather."
+    },
+    {
+        "id": "4",
+        "name": "Boulder Peak Long-Sleeve Hooded T-Shirt",
+        "price": 17,
+        "category": "kids",
+        "image": "https://eddiebauer.scene7.com/is/image/EddieBauer/D0130651_125C1?$748V1$",
+        "description": "Our Boulder Peak Long-Sleeve Hooded T-Shirt provides maximum comfort and style for outdoor adventures. Moisture-wicking stretch fabric moves with them during any activity."
+    },
+    {
+        "id": "5",
+        "name": "Boyfriend Jeans - Slim Leg",
+        "price": "39.5",
+        "category": "women",
+        "image": "https://eddiebauer.scene7.com/is/image/EddieBauer/D0114220_565C1?$748V1$",
+        "description": "Our bestselling Boyfriend is like no other jean in your closet, thanks to a cotton/spandex blend that fits just right. Classic five-pocket styling."
+    },
+    {
+        "id": "6",
+        "name": "Camp Fleece Full-Zip Hoodie",
+        "price": 45.5,
+        "category": "men",
+        "image": "https://eddiebauer.scene7.com/is/image/EddieBauer/D0330776_158C1?$748V1$",
+        "description": "The classic full-zip hoodie sweatshirt, in cotton/polyester that has an ultrasoft, brushed interior for superior comfort, and rib-knit cuffs and hem for shape retention."
+    },
+    {
+        "id": "7",
+        "name": "Camp Fleece Full-Zip Hoodie - River Wash",
+        "price": 52.5,
+        "category": "men",
+        "image": "https://eddiebauer.scene7.com/is/image/EddieBauer/D0332102_668C1?$748V1$",
+        "description": "Classic sweatshirt fleece with an ultrasoft, brushed interior makes this full-zip hoodie a favorite from the first wearing. The natural pigment dyes and pre-wash process softens the colors and makes each pair unique with its own shading variations."
+    },
+    {
+        "id": "8",
+        "name": "Camp Fleece Pullover Hoodie",
+        "price": 38.5,
+        "category": "men",
+        "image": "https://eddiebauer.scene7.com/is/image/EddieBauer/D0330912_158C1?$748V1$",
+        "description": "Serious comfort in a classic pullover hoodie sweatshirt. Robust cotton/polyester fleece is brushed for extra softness. Rib-knit cuffs and hem enhance shape retention."
+    },
+    {
+        "id": "9",
+        "name": "Chilali Faux Shearling Fleece Vest",
+        "price": 39.6,
+        "category": "men",
+        "image": "https://eddiebauer.scene7.com/is/image/EddieBauer/D0331411_216C1?$748V1$",
+        "description": "Ultrasoft faux shearling fleece makes this full-zip vest ideal as an insulating layer in cold weather, as well as an outer layer in milder conditions."
+    },
+    {
+        "id": "10",
+        "name": "Chilali Faux Shearling-Fleece Full-Zip Mock",
+        "price": 47.6,
+        "category": "men",
+        "image": "https://eddiebauer.scene7.com/is/image/EddieBauer/D0331409_216C1?$748V1$",
+        "description": "Ultrasoft faux shearling fleece on the exterior is paired with smooth, contrasting fleece on the interior in a bonded construction for added strength and durability. The result is cool-weather jacket that's substantial and warm without being bulky."
+    },
+    {
+        "id": "11",
+        "name": "Chilali Fleece Jacket",
+        "price": 19.6,
+        "category": "kids",
+        "image": "https://eddiebauer.scene7.com/is/image/EddieBauer/D0130584_696C1?$748V1$",
+        "description": "Our ultra-soft and cozy Chilali Fleece Jacket handles chilly weather and cool conditions with ease. This fully fleece-lined jacket is soft to the touch and comfy enough for everyday wear."
+    },
+    {
+        "id": "12",
+        "name": "Chopper Heavyweight Flannel Shirt",
+        "price": 81.75,
+        "category": "men",
+        "image": "https://eddiebauer.scene7.com/is/image/EddieBauer/D0340405_033C1?$748V1$",
+        "description": "Part of the next generation of our workwear, Mountain Ops, that's built on rugged tradition and state-of-the-art innovation, this shirt definitely lives up to that legacy. It's our beefiest flannel, in a heavyweight polyester/rayon/spandex blend for extra warmth, durability, and mobility, and brushed for maximum comfort."
+    },
+    {
+        "id": "13",
+        "name": "Chutes Anorak",
+        "price": 36,
+        "category": "men",
+        "image": "https://eddiebauer.scene7.com/is/image/EddieBauer/D0292069_094C1?$748V1$",
+        "description": "Super soft and durable, this microfleece anorak will stand up to years of service in cold weather. The brushed fabric is thicker and warmer than flannel, but never bulky."
+    },
+    {
+        "id": "14",
+        "name": "Chutes Microfleece Shirt - Stripe",
+        "price": 34,
+        "category": "men",
+        "image": "https://eddiebauer.scene7.com/is/image/EddieBauer/D0290997_271C1?$748V1$",
+        "description": "Supersoft brushed microfleece makes this shirt a perfect layering option through the fall and winter. The warm, midweight fabric is made of 20% recycled polyester."
+    },
+    {
+        "id": "15",
+        "name": "Chutes Pro Shirt Jacket",
+        "price": 39.6,
+        "category": "men",
+        "image": "https://eddiebauer.scene7.com/is/image/EddieBauer/D0332306_854C1?$748V1$",
+        "description": "Our Chutes Pro Shirt Jacket is perfect when paired with chilly transitional weather. It features ultra-soft fabric with a raised, corduroy-like finish, and an interior that's exceptionally soft against your skin."
+    },
+    {
+        "id": "16",
+        "name": "Cicerone Long-Sleeve  Shirt",
+        "price": 90.3,
+        "category": "men",
+        "image": "https://eddiebauer.scene7.com/is/image/EddieBauer/D0291185_201C1?$748V1$",
+        "description": "Don't think twice about taking the long way home in our Long-Sleeve Cicerone Shirt. This comfortable button-up uses seersucker textured fabric with tiny loops on the interior that wick moisture and feel exceptionally soft against your skin."
+    },
+    {
+        "id": "17",
+        "name": "CirrusLite Down Parka",
+        "price": 55.6,
+        "category": "kids",
+        "image": "https://eddiebauer.scene7.com/is/image/EddieBauer/D0130607_147C1?$748V1$",
+        "description": "When winter hits, make sure your kid has a warm layer for snow-day fun in our CirrusLite Down Parka. It features a front storm flap to keep in heat and is stuffed with lightweight premium down insulation."
+    },
+    {
+        "id": "18",
+        "name": "CirrusLite Down Vest",
+        "price": 32.5,
+        "category": "kids",
+        "image": "https://eddiebauer.scene7.com/is/image/EddieBauer/D0130601_152C1?$748V1$",
+        "description": "Keep your kids warm and their smiles bright this winter with our ever-popular CirrusLite Down Vest. This lightweight vest warms them up in chilly weather with 650-fill down insulation and features a tough shell that holds up to endless outdoor fun."
+    },
+    {
+        "id": "19",
+        "name": "Classic Down Jacket",
+        "price": 39.6,
+        "category": "kids",
+        "image": "https://eddiebauer.scene7.com/is/image/EddieBauer/D0130621_147C1?$748V1$",
+        "description": "This hooded jacket is just the thing for little ones when you take them out in cold weather. With its Premium Down insulation and fleece lining, it's lightweight and amazingly warm."
+    },
+    {
+        "id": "20",
+        "name": "Classic Field Pro Short-Sleeve Polo Shirt",
+        "price": 60,
+        "category": "men",
+        "image": "https://eddiebauer.scene7.com/is/image/EddieBauer/D0330511_100C1?$748V1$",
+        "description": "The natural, breathable cotton in our popular field polo now has moisture-wicking technology that draws sweat away from your skin to help you feel drier and cooler while active. The piqué knit has a slight basketweave texture."
+    },
+    {
+        "id": "21",
+        "name": "Cloud Cap Stretch Insulated Trench Coat",
+        "price": "48",
+        "category": "women",
+        "image": "https://eddiebauer.scene7.com/is/image/EddieBauer/D0061029_712C1?$748V1$",
+        "description": "The buttery soft polyester shell of this trench coat features mechanical stretch for mobility. It's also fully seam-sealed and both waterproof and windproof. Insulated for warmth, it takes you across the seasons."
+    },
+    {
+        "id": "22",
+        "name": "Cloud Layer Pro 1/4-Zip Pullover",
+        "price": 52.5,
+        "category": "men",
+        "image": "https://eddiebauer.scene7.com/is/image/EddieBauer/D0292067_236C1?$748V1$",
+        "description": "Our premier, guide-built 1/4-zip pullover, in ultrasoft, durable polyester fleece. This is the perfect insulating layer for cold weather activities. It offers warm, lightweight, quick-drying performance, with a high collar that adds an extra measure of protection against chill. Whether you're snowshoeing groomed trails, carving fresh lines through deep powder, hiking an alpine meadow or exploring an open-air market in town, this fleece has you covered."
+    },
+    {
+        "id": "23",
+        "name": "Cloud Layer Pro Full-Zip Jacket",
+        "price": 60,
+        "category": "men",
+        "image": "https://eddiebauer.scene7.com/is/image/EddieBauer/D0290029_512C1?$748V1$",
+        "description": "Our premier, guide-built full-zip fleece, in ultrasoft, durable polyester. This is the perfect insulating layer for cold weather activities. It offers warm, lightweight, quick-drying performance, with a high collar that adds an extra measure of protection against chill. Whether you're snowshoeing groomed trails, carving fresh lines through deep powder, hiking an alpine meadow or exploring an open-air market in town, this fleece has you covered."
+    },
+    {
+        "id": "24",
+        "name": "Convector Shirt",
+        "price": 69.3,
+        "category": "men",
+        "image": "https://eddiebauer.scene7.com/is/image/EddieBauer/D0332042_216C1?$748V1$",
+        "description": "With its knitted sweater fleece exterior and brushed fleece interior, this button-front shirt combines great looks and functional warmth. Works equally well on its own or as a cold-weather layer."
+    },
+    {
+        "id": "25",
+        "name": "Crossover Winter Trail Adventure High-Rise Leggings",
+        "price": "71",
+        "category": "women",
+        "image": "https://eddiebauer.scene7.com/is/image/EddieBauer/D0312756_100C1?$748V1$",
+        "description": "The newest generation of our best-selling Trail Tights, these high-rise leggings are better than ever. Like the original Trail Tights, they feature moisture-wicking, sun-protection, and odor-control technologies, plus a Power Mesh waistband. But these are built in our Crossover premium brushed fleece fabric for added warmth in cool weather. We've also added significant new features, from a high waist with drawcord adjustment to a chemical-free gusseted crotch that enhances mobility and fit."
+    },
+    {
+        "id": "26",
+        "name": "Deer Harbor Reversible Hooded Jacket",
+        "price": 31.6,
+        "category": "kids",
+        "image": "https://eddiebauer.scene7.com/is/image/EddieBauer/D0130591_601C1?$748V1$",
+        "description": "Escape winter's chill and embrace the weather in our Deer Harbor Reversible Hooded Jacket. It's meant to be worn both ways with a moisture-shedding shell on one side and soft, cozy fleece on the other."
+    },
+    {
+        "id": "27",
+        "name": "EB Hemplify Flannel Shirt",
+        "price": 69.3,
+        "category": "men",
+        "image": "https://eddiebauer.scene7.com/is/image/EddieBauer/D0340722_204C1?$748V1$",
+        "description": "Whether your autumn weekends involve a squash-flavored drink while walking through a farmer's market or a strenuous hike through falling leaves, this comfortable and sustainable layer has your back It's made with a blend of breathable hemp and recycled polyester for lightweight warmth that has a low carbon footprint."
+    },
+    {
+        "id": "28",
+        "name": "Eddie Bauer Signature Hoodie",
+        "price": 59.5,
+        "category": "men",
+        "image": "https://eddiebauer.scene7.com/is/image/EddieBauer/D0331703_103C1?$748V1$",
+        "description": "Now THIS is a sweatshirt. Robust, 380 g/m2 cotton/polyester has the heft you know is going to last no matter how hard you work it. Inside, the fabric is brushed for maximum comfort whether on day one or one thousand. Gender-neutral sizing.\n\nModels Shown: Female 5'9\"-5'11\", Size S; Male 6'0\"-6'2\", Size M"
+    },
+    {
+        "id": "29",
+        "name": "Eddie Bauer Signature Pullover Hoodie",
+        "price": 52.5,
+        "category": "men",
+        "image": "https://eddiebauer.scene7.com/is/image/EddieBauer/D0331605_182C1?$748V1$",
+        "description": "Now THIS is a sweatshirt. Robust, 380 g/m2 cotton/polyester has the heft you know is going to last no matter how hard you work it. Inside, the fabric is brushed for maximum comfort whether on day one or one thousand. Gender-neutral sizing.\n\nModels Shown: Female 5'9\"-5'11\", Size S; Male 6'0\"-6'2\", Size M"
+    },
+    {
+        "id": "30",
+        "name": "Eddie's Favorite Flannel Faux Shearling-Lined Shirt Jacket",
+        "price": 83.3,
+        "category": "men",
+        "image": "https://eddiebauer.scene7.com/is/image/EddieBauer/D0340175_093C1?$748V1$",
+        "description": "On the outside, our signature 2-ply cotton flannel, brushed for incredible softness, creates the look and feel of a classic work shirt. Inside, faux shearling fleece lines the body for added warmth, while lightweight polyester taffeta in the sleeves ensures easy on/off and a perfect fit that never leaves you feeling constricted."
+    },
+    {
+        "id": "31",
+        "name": "Extra Mile Plush-Lined Leggings - Heather",
+        "price": 14,
+        "category": "kids",
+        "image": "https://eddiebauer.scene7.com/is/image/EddieBauer/D0130296_147C1?$748V1$",
+        "description": "These soft, super-stretchy leggings are great for any activity and the plush fleece lining provides extra warmth in cool weather."
+    },
+    {
+        "id": "32",
+        "name": "Extra Mile Plush-Lined Leggings - Print",
+        "price": 14,
+        "category": "kids",
+        "image": "https://eddiebauer.scene7.com/is/image/EddieBauer/D0130297_166C1?$748V1$",
+        "description": "Soft, super-stretchy polyester/spandex makes these leggings great for any activity, and the plush fleece lining provides extra warmth in cool weather."
+    },
+    {
+        "id": "33",
+        "name": "Faultline Corduroy Shirt",
+        "price": 63,
+        "category": "men",
+        "image": "https://eddiebauer.scene7.com/is/image/EddieBauer/D0340721_854C1?$748V1$",
+        "description": "Enjoy trails less traveled with our ultra-durable Faultline Corduroy Shirt. This casual button-up shirt features heavy-duty cotton material, durable construction techniques, and reinforced elbows. We threw in secure pockets for small essentials and cool trail finds, and the button-up design allows easy venting when the day gets warmer."
+    },
+    {
+        "id": "34",
+        "name": "Faux Shearling Shirt Jacket",
+        "price": 31.5,
+        "category": "kids",
+        "image": "https://eddiebauer.scene7.com/is/image/EddieBauer/D0130721_899C1?$748V1$",
+        "description": "Our Faux Shearling Shirt Jacket is an everyday casual layer with an ultra-soft and cozy lining that keeps you warm and toasty even in cool weather."
+    },
+    {
+        "id": "35",
+        "name": "Faux Shearling-Lined Jogger Pants",
+        "price": 24.5,
+        "category": "kids",
+        "image": "https://eddiebauer.scene7.com/is/image/EddieBauer/D0130723_272C1?$748V1$",
+        "description": "When it's time to relax, reach for our premium Faux Shearling-Lined Jogger Pants. The durable  shell is lined with soft faux shearling fleece, so you can wear these pants all winter long."
+    },
+    {
+        "id": "36",
+        "name": "Faux Shearling-Lined Thermal Shirt",
+        "price": 69.3,
+        "category": "men",
+        "image": "https://eddiebauer.scene7.com/is/image/EddieBauer/D0331304_216C1?$748V1$",
+        "description": "No ordinary shirt, this snap-front is built for cross-seasonal comfort. The cotton/polyester thermal-knit exterior fabric stretches and breathes; and inside, it has an ultrasoft faux shearling fleece lining to cut the chill on raw days. The front placket is reinforced with woven backing, and soft jersey binding at the cuffs and hem enhance shape retention."
+    },
+    {
+        "id": "37",
+        "name": "Graphic Camp Fleece Hoodie",
+        "price": 16,
+        "category": "kids",
+        "image": "https://eddiebauer.scene7.com/is/image/EddieBauer/D0130378_147C1?$748V1$",
+        "description": "Soft, cozy, and fun, this classic pullover hoodie features a bright, multi-colored graphic across the chest and thumbhole cuffs for extra coverage and easy layering."
+    },
+    {
+        "id": "38",
+        "name": "Graphic Long-Sleeve Tee",
+        "price": 11,
+        "category": "kids",
+        "image": "https://eddiebauer.scene7.com/is/image/EddieBauer/D0130657_828C1?$748V1$",
+        "description": "Our Graphic Long-Sleeve T-Shirt is made to keep your kids comfortable during their cool-weather adventures. The lightweight cotton-polyester blend fabric features fun designs and is perfect for almost any activity."
+    },
+    {
+        "id": "39",
+        "name": "Graphic Short-Sleeve T-Shirt - 2-Pack",
+        "price": 12,
+        "category": "kids",
+        "image": "https://eddiebauer.scene7.com/is/image/EddieBauer/D0130517_748C1?$748V1$",
+        "description": "Keep your kids comfortable during their everyday adventures with these Graphic Short-Sleeve T-Shirts. Made of a lightweight cotton-polyester blend and featuring fun designs, these shirts are perfect for warm-weather activities."
+    },
+    {
+        "id": "40",
+        "name": "Graphic Ultrasoft Hoodie",
+        "price": 20,
+        "category": "kids",
+        "image": "https://eddiebauer.scene7.com/is/image/EddieBauer/D0130661_801C1?$748V1$",
+        "description": "Keep your kid comfortable inside and out with our Graphic Ultrasoft Hoodie. It features our softest material blend and fits casually, like a t-shirt."
+    },
+    {
+        "id": "41",
+        "name": "Guide Pro Capris",
+        "price": "25",
+        "category": "women",
+        "image": "https://eddiebauer.scene7.com/is/image/EddieBauer/D0310794_707C1?$748V1$",
+        "description": "Our Guides' choice for everything outside—from moving fast in the mountains to lounging in camp. Lightweight, packable, two-way stretch Flexion nylon/spandex provides mobility and has UPF sun protection and a durable water-repellent finish that causes moisture to bead and roll off rather than soak into the fabric."
+    },
+    {
+        "id": "42",
+        "name": "Guide UPF 2.0 Long-Sleeve Shirt",
+        "price": 56,
+        "category": "men",
+        "image": "https://eddiebauer.scene7.com/is/image/EddieBauer/D0380416_289C1?$748V1$",
+        "description": "Stay comfortable this fishing and rafting season with the Guide UPF 2.0  Long-Sleeve Shirt. We built this shirt to be ultra light and an angler's best friend during warm summer months spent casting on the water. The next-level AirSpace® technology keeps the fabric off your skin during even the most humid expeditions and adventures."
+    },
+    {
+        "id": "43",
+        "name": "Guide UPF Long-Sleeve Shirt",
+        "price": "52",
+        "category": "women",
+        "image": "https://eddiebauer.scene7.com/is/image/EddieBauer/D0380373_819C1?$748V1$",
+        "description": "With AirSpace Technology® that creates a micro-textured fabric that's lighter on your skin and cooler in the heat, this is the ultimate outdoor adventure shirt. The polyester/nylon enhances air flow, wicks moisture, and offers UPF sun protection. Roll-tab sleeves adjust easily."
+    },
+    {
+        "id": "44",
+        "name": "High Route Grid Air 1/4-Zip",
+        "price": 63.75,
+        "category": "men",
+        "image": "https://eddiebauer.scene7.com/is/image/EddieBauer/D0290859_668C1?$748V1$",
+        "description": "The new lighter, closer-fitting version of our best-selling High Route Grid Fleece. Because it's lighter, it gives you even more options for active layering in cool weather."
+    },
+    {
+        "id": "45",
+        "name": "High Route Grid Fleece 1/2-Zip Hoodie",
+        "price": 74.25,
+        "category": "men",
+        "image": "https://eddiebauer.scene7.com/is/image/EddieBauer/D0290980_488C1?$748V1$",
+        "description": "Lightweight grid fleece is the perfect combination of low bulk, high warmth, full mobility and maximum comfort that you want in a premium midlayer for outdoor activities. The FreeHeat® polyester/spandex offers four-way stretch, and the soft, grid-like texture on the interior allows excellent air circulation while keeping you warm."
+    },
+    {
+        "id": "46",
+        "name": "High Route Grid Fleece 1/2-Zip Mock",
+        "price": 67.5,
+        "category": "men",
+        "image": "https://eddiebauer.scene7.com/is/image/EddieBauer/D0290703_444C1?$748V1$",
+        "description": "Lightweight grid fleece is the perfect combination of low bulk, high warmth, full mobility and maximum comfort that you want in a premium midlayer for outdoor activities. The FreeHeat® polyester/spandex offers four-way stretch, and the soft, grid-like texture on the interior allows excellent air circulation while keeping you warm."
+    },
+    {
+        "id": "47",
+        "name": "Legend Wash 100% Cotton Long-Sleeve Pocket T-Shirt",
+        "price": 60,
+        "category": "men",
+        "image": "https://eddiebauer.scene7.com/is/image/EddieBauer/D0332533_216C1?$748V1$",
+        "description": "You asked for 100% cotton and we heard you."
+    },
+    {
+        "id": "48",
+        "name": "Legend Wash 100% Cotton Short-Sleeve Slim T-Shirt",
+        "price": 60,
+        "category": "men",
+        "image": "https://eddiebauer.scene7.com/is/image/EddieBauer/D0332531_500C1?$748V1$",
+        "description": "You asked for 100% cotton and we heard you."
+    },
+    {
+        "id": "49",
+        "name": "Legend Wash 100% Cotton Short-Sleeve V-Neck T-Shirt",
+        "price": 60,
+        "category": "men",
+        "image": "https://eddiebauer.scene7.com/is/image/EddieBauer/D0332529_500C1?$748V1$",
+        "description": "You asked for 100% cotton and we heard you."
+    },
+    {
+        "id": "50",
+        "name": "Lone Peak 3-In-1 Jacket",
+        "price": 44.5,
+        "category": "kids",
+        "image": "https://eddiebauer.scene7.com/is/image/EddieBauer/D0130585_396C1?$748V1$",
+        "description": "With a waterproof shell and a cozy fleece lined to wear individually or together, our Lone Peak 3-In-1 Jacket is the right choice for any kind of weather. The zip-in fleece provides warmth, while the waterproof shell keeps your inner layers dry all day long."
+    },
+    {
+        "id": "51",
+        "name": "Madison Valley Corduroy Shirt-Jacket",
+        "price": "67",
+        "category": "women",
+        "image": "https://eddiebauer.scene7.com/is/image/EddieBauer/D0081027_345C1?$748V1$",
+        "description": "Soft, wide-wale cotton corduroy creates a button-front shirt-jacket with rich texture and cozy warmth. The relaxed fit lets you layer it over a flannel shirt, sweater, or a long-sleeve T-shirt."
+    },
+    {
+        "id": "52",
+        "name": "MicroTherm® 2.0 Down  Jacket",
+        "price": "60.47",
+        "category": "women",
+        "image": "https://eddiebauer.scene7.com/is/image/EddieBauer/D0890349_341C1?$748V1$",
+        "description": "Perfection Evolved. Version 2.0 of our premium ultralight has an improved fit that's more comfortable, mobile, and flattering, with more room in the chest; a slightly longer length for added coverage and warmth; a softer fabric to further enhance the comfort; and a secure drawcord hem to seal out cold and fine-tune the fit.\n\nAs an ultralight insulating layer, the MicroTherm is thinner than traditional down jackets. But that combination of minimal bulk and effective warmth is what makes it special, and is the result of its patented construction and the exceptionally high-loft Premium Goose Down that it holds close to the body for maximum thermal efficiency."
+    },
+    {
+        "id": "53",
+        "name": "MicroTherm® 2.0 Down Hooded Jacket",
+        "price": "49",
+        "category": "women",
+        "image": "https://eddiebauer.scene7.com/is/image/EddieBauer/D0890500_630C1?$748V1$",
+        "description": "Perfection Evolved. Version 2.0 of our premium ultralight has an improved fit that's more comfortable, mobile, and flattering, with more room in the chest; a slightly longer length for added coverage and warmth; a softer fabric to further enhance the comfort; and a secure drawcord hem to seal out cold and fine-tune the fit.\n\nAs an ultralight insulating layer, the MicroTherm is thinner than traditional down jackets. But that combination of minimal bulk and effective warmth is what makes it special, and is the result of its patented construction and the exceptionally high-loft goose down that it holds close to the body for maximum thermal efficiency."
+    },
+    {
+        "id": "54",
+        "name": "Motion Cozy Camp Long-Sleeve Tunic",
+        "price": "60",
+        "category": "women",
+        "image": "https://eddiebauer.scene7.com/is/image/EddieBauer/D0092636_296C1?$748V1$",
+        "description": "We took our favorite crewneck sweatshirt and added spandex for the comfort of stretch. We also made the interior even softer, gave it a more relaxed fit, and a new tunic length. The result is a pullover you might just want to live in."
+    },
+    {
+        "id": "55",
+        "name": "Mountain Ops Long-Sleeve T-Shirt",
+        "price": 37.5,
+        "category": "men",
+        "image": "https://eddiebauer.scene7.com/is/image/EddieBauer/D0331949_557C1?$748V1$",
+        "description": "Heavyweight cotton jersey stands up to rugged use while providing the unmatched comfort of the natural fiber."
+    },
+    {
+        "id": "56",
+        "name": "Mountain Trek 4S Tech Pullover Hoodie",
+        "price": 60,
+        "category": "men",
+        "image": "https://eddiebauer.scene7.com/is/image/EddieBauer/D0291197_228C1?$748V1$",
+        "description": "Keep your workouts and transitional season adventures comfortable in our Mountain Trek 4S Tech Pullover Hoodie. This extra soft layer features moisture-wicking fabric, odor control, and added stretch so you can enjoy long hikes in the wilderness."
+    },
+    {
+        "id": "57",
+        "name": "Mountain Trek Short-Sleeve T-Shirt",
+        "price": "60",
+        "category": "men",
+        "image": "https://eddiebauer.scene7.com/is/image/EddieBauer/D0291195_838C1?$748V1$",
+        "description": "Enjoy summer hikes and sojourns in superior comfort with our Mountain Trek Short-Sleeve T-Shirt. This extra soft layer features moisture-wicking fabric, odor control, and added stretch for long days spent in the wilderness."
+    },
+    {
+        "id": "58",
+        "name": "Movement Stretch Jersey Leggings - Solid",
+        "price": 5.98,
+        "category": "kids",
+        "image": "https://eddiebauer.scene7.com/is/image/EddieBauer/D0130040_986C1?$748V1$",
+        "description": "Perfect for chasing dreams, and other treasure. Soft, stretchy cotton/spandex makes these full-length leggings a perfect, year-round choice."
+    },
+    {
+        "id": "59",
+        "name": "Outlooker Quilted Crew",
+        "price": 59.99,
+        "category": "men",
+        "image": "https://eddiebauer.scene7.com/is/image/EddieBauer/D0331957_010C1?$748V1$",
+        "description": "With diamond quilting inspired by our classic down jackets, this cotton/polyester pullover sweatshirt has a distinctive look as well as famously soft comfort."
+    },
+    {
+        "id": "60",
+        "name": "Outlooker Quilted Full-Zip Hoodie",
+        "price": 63,
+        "category": "men",
+        "image": "https://eddiebauer.scene7.com/is/image/EddieBauer/D0331958_315C1?$748V1$",
+        "description": "With diamond quilting inspired by our classic down jackets, this polyester/cotton full-zip hoodie sweatshirt has a distinctive look as well as famously soft comfort."
+    },
+    {
+        "id": "61",
+        "name": "Pack It Seersucker Short-Sleeve Shirt",
+        "price": 60,
+        "category": "men",
+        "image": "https://eddiebauer.scene7.com/is/image/EddieBauer/D0290891_398C1?$748V1$",
+        "description": "Lightweight and easy-packing, this nylon/polyester shirt is ideal for active pursuits with its moisture-wicking comfort, UPF sun protection, and quick venting. The fabric has a softer, cotton-like texture."
+    },
+    {
+        "id": "62",
+        "name": "Quest Fleece Convertible Mittens",
+        "price": 10,
+        "category": "kids",
+        "image": "https://eddiebauer.scene7.com/is/image/EddieBauer/D0130734_408C1?$748V1$",
+        "description": "The top of these soft fleece mittens peels back to reveal fingerless gloves—just the thing for using a phone or anything else that requires finger dexterity."
+    },
+    {
+        "id": "63",
+        "name": "Quest Fleece Gloves",
+        "price": 10,
+        "category": "kids",
+        "image": "https://eddiebauer.scene7.com/is/image/EddieBauer/D0130733_147C1?$748V1$",
+        "description": "Our Quest Fleece Glove comes in sizes that fit young adventurers, so their hands will be warm and cozy all winter long."
+    },
+    {
+        "id": "64",
+        "name": "Quest Fleece Neck Gaiter - 2 Pack",
+        "price": 12,
+        "category": "kids",
+        "image": "https://eddiebauer.scene7.com/is/image/EddieBauer/D0130743_842C1?$748V1$",
+        "description": "These neck gaiters—one print and one solid color—provide an extra measure of warmth during outdoor activities."
+    },
+    {
+        "id": "65",
+        "name": "Quest Fleece Plush Onesie",
+        "price": 15.6,
+        "category": "kids",
+        "image": "https://eddiebauer.scene7.com/is/image/EddieBauer/D0130583_899C1?$748V1$",
+        "description": "When you're looking for the softest and coziest layer for your kids, look no further than our Quest Fleece Plush Onesie."
+    },
+    {
+        "id": "66",
+        "name": "Quest Fleece Sleep Set - Buffalo",
+        "price": 20,
+        "category": "kids",
+        "image": "https://eddiebauer.scene7.com/is/image/EddieBauer/D0130698_816C1?$748V1$",
+        "description": "Help your kids' sleep through chilly winter nights in our ultra-soft and warm Quest Fleece Sleep Set. Made with a soft and lightweight polyester blend material, this set promotes comfort every night so your kiddo can have a day full of adventures."
+    },
+    {
+        "id": "67",
+        "name": "Rainfoil Jacket",
+        "price": 27.6,
+        "category": "kids",
+        "image": "https://eddiebauer.scene7.com/is/image/EddieBauer/D0130549_408C1?$748V1$",
+        "description": "Prevent the rain from stopping your kids' active days with the lightweight Rainfoil Jacket. Perfect to outfit your kiddos with on their way out of the door, this jacket repels wetness and moisture without being uncomfortable. On weekend hikes when the weather is threatening overhead, get your kids into their rainfoil jackets to keep their smiles bright and spirits high."
+    },
+    {
+        "id": "68",
+        "name": "Resolution Pro Short-Sleeve Polo Shirt 2.0",
+        "price": 60,
+        "category": "men",
+        "image": "https://eddiebauer.scene7.com/is/image/EddieBauer/D0290930_139C1?$748V1$",
+        "description": "No ordinary polo shirt, this one is built for serious performance and comfort with a soft polyester fabric that includes both moisture-wicking and odor-control technology."
+    },
+    {
+        "id": "69",
+        "name": "Shasta Beanie",
+        "price": "58",
+        "category": "women",
+        "image": "https://eddiebauer.scene7.com/is/image/EddieBauer/D0165914_343C1?$748V1$",
+        "description": "This marled acrylic beanie can be worn cuffed and fitted or uncuffed in a slouch."
+    },
+    {
+        "id": "70",
+        "name": "Sightscape Convertible Roll-Up Pants",
+        "price": "39",
+        "category": "women",
+        "image": "https://eddiebauer.scene7.com/is/image/EddieBauer/D0311902_707C1?$748V1$",
+        "description": "Combining all the comfort and soft texture of a classic thermal knit, with the added benefits of stretch, moisture wicking, and odor control, this double-knit polyester/spandex crewneck pullover is ideal for being active in cool weather. Thumbhole sleeves also allow for easy layering."
+    },
+    {
+        "id": "71",
+        "name": "Snowcat Storm Chamois Shirt",
+        "price": 74.25,
+        "category": "men",
+        "image": "https://eddiebauer.scene7.com/is/image/EddieBauer/D0290992_159C1?$748V1$",
+        "description": "Part of our rugged Mountain Ops workwear line, this shirt is made of thick, tightly woven cotton chamois cloth. Brushed on both sides to an ultrasoft texture, it's weather-resistant and highly durable."
+    },
+    {
+        "id": "72",
+        "name": "StratusTherm Down Jacket",
+        "price": "40",
+        "category": "women",
+        "image": "https://eddiebauer.scene7.com/is/image/EddieBauer/D0061656_819C1?$748V1$",
+        "description": "Our bestselling, lightweight jacket is made with responsibly-sourced 650-fill premium down and features an all-new recycled shell and lining. It's a great choice for all your winter adventures...as well as for our environment."
+    },
+    {
+        "id": "73",
+        "name": "Sun Valley Down Duffle Coat",
+        "price": "31",
+        "category": "women",
+        "image": "https://eddiebauer.scene7.com/is/image/EddieBauer/D0060799_062C1?$748V1$",
+        "description": "The long-coat version of our best-selling down parka, for ultimate warmth in the most extreme cold. Water-repellent nylon/polyester shell pairs with the Premium Down insulation to create an exceptional barrier against winter onslaughts, yet is remarkably lightweight. Princess seams create slimming lines."
+    },
+    {
+        "id": "74",
+        "name": "Sun Valley Down Parka",
+        "price": 59.6,
+        "category": "kids",
+        "image": "https://eddiebauer.scene7.com/is/image/EddieBauer/D0130605_748C1?$748V1$",
+        "description": "Take on winter with our Sun Valley Down Parka to stay protected in cold weather conditions. The moisture-shedding shell is insulated with 650-fill down warmth and features a detachable faux fur trim for a more casual look."
+    },
+    {
+        "id": "75",
+        "name": "Thermal Tech Crew",
+        "price": "25.5",
+        "category": "women",
+        "image": "https://eddiebauer.scene7.com/is/image/EddieBauer/D0312733_047C1?$748V1$",
+        "description": "Combining all the comfort and soft texture of a classic thermal knit, with the added benefits of stretch, moisture wicking, and odor control, this double-knit polyester/spandex crewneck pullover is ideal for being active in cool weather. Thumbhole sleeves also allow for easy layering."
+    },
+    {
+        "id": "76",
+        "name": "Trail Active Shorts",
+        "price": 10.4,
+        "category": "kids",
+        "image": "https://eddiebauer.scene7.com/is/image/EddieBauer/D0130350_801C1?$748V1$",
+        "description": "The waistband says, \"Live Your Adventure,\" and these shorts are made to do just that. Lightweight, stretch comfort with an easily adjustable elastic/drawstring waist."
+    },
+    {
+        "id": "77",
+        "name": "Trailcool Short-Sleeve T-Shirt",
+        "price": 35,
+        "category": "men",
+        "image": "https://eddiebauer.scene7.com/is/image/EddieBauer/D0290785_149C1?$748V1$",
+        "description": "The stretch blend of this T-shirt's chemical-free Coolcore® polyester/spandex provides unrestricted mobility. It also wicks moisture, helps regulate temperature, and shields from the sun. The polyester mesh back panel boosts breathability."
+    },
+    {
+        "id": "78",
+        "name": "Ultimate Voyager Travel Blazer",
+        "price": 60,
+        "category": "men",
+        "image": "https://eddiebauer.scene7.com/is/image/EddieBauer/D0340504_100C1?$748V1$",
+        "description": "Our updated travel blazer has a new wrinkle-free fabric and extra interior pockets for enhanced utility and security while on the road. The polyester/spandex provides the comfort of 2-way stretch and has a durable, water-repellent finish that causes moisture to bead and roll off rather than soak into the fabric."
+    }
+]
